@@ -1,1 +1,1 @@
-# shareme-mern
+# shareme-mern app
