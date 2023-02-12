@@ -1,2 +1,2 @@
 # shareme-mern app
-##Mongo, Expressjs, Reactjs, Nodejs
+##Mongo, Express.js, React.js, Node.js
